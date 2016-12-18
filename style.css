@@ -15,7 +15,9 @@ h1 {
     font-size: 60px;
 }
 
-p {}
+p {
+    color: #2980b9;
+}
 
 .flexbox-container {
     width: 50%;
